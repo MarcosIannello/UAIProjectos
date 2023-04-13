@@ -1,0 +1,11 @@
+C:\Users\ianne\source\repos\EjercicioTelevision\EjercicioTelevision\bin\Debug\EjercicioTelevision.exe.config
+C:\Users\ianne\source\repos\EjercicioTelevision\EjercicioTelevision\bin\Debug\EjercicioTelevision.exe
+C:\Users\ianne\source\repos\EjercicioTelevision\EjercicioTelevision\bin\Debug\EjercicioTelevision.pdb
+C:\Users\ianne\source\repos\EjercicioTelevision\EjercicioTelevision\obj\Debug\EjercicioTelevision.csproj.AssemblyReference.cache
+C:\Users\ianne\source\repos\EjercicioTelevision\EjercicioTelevision\obj\Debug\EjercicioTelevision.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianne\source\repos\EjercicioTelevision\EjercicioTelevision\obj\Debug\EjercicioTelevision.Properties.Resources.resources
+C:\Users\ianne\source\repos\EjercicioTelevision\EjercicioTelevision\obj\Debug\EjercicioTelevision.csproj.GenerateResource.cache
+C:\Users\ianne\source\repos\EjercicioTelevision\EjercicioTelevision\obj\Debug\EjercicioTelevision.csproj.CoreCompileInputs.cache
+C:\Users\ianne\source\repos\EjercicioTelevision\EjercicioTelevision\obj\Debug\EjercicioTelevision.exe
+C:\Users\ianne\source\repos\EjercicioTelevision\EjercicioTelevision\obj\Debug\EjercicioTelevision.pdb
+C:\Users\ianne\source\repos\EjercicioTelevision\EjercicioTelevision\obj\Debug\EjercicioTelevision.frmTelevision.resources

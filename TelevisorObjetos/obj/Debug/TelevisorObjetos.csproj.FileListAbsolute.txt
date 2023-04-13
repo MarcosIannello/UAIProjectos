@@ -1,0 +1,11 @@
+C:\Users\ianne\source\repos\TelevisorObjetos\bin\Debug\TelevisorObjetos.exe.config
+C:\Users\ianne\source\repos\TelevisorObjetos\bin\Debug\TelevisorObjetos.exe
+C:\Users\ianne\source\repos\TelevisorObjetos\bin\Debug\TelevisorObjetos.pdb
+C:\Users\ianne\source\repos\TelevisorObjetos\obj\Debug\TelevisorObjetos.csproj.AssemblyReference.cache
+C:\Users\ianne\source\repos\TelevisorObjetos\obj\Debug\TelevisorObjetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianne\source\repos\TelevisorObjetos\obj\Debug\TelevisorObjetos.Properties.Resources.resources
+C:\Users\ianne\source\repos\TelevisorObjetos\obj\Debug\TelevisorObjetos.csproj.GenerateResource.cache
+C:\Users\ianne\source\repos\TelevisorObjetos\obj\Debug\TelevisorObjetos.csproj.CoreCompileInputs.cache
+C:\Users\ianne\source\repos\TelevisorObjetos\obj\Debug\TelevisorObjetos.exe
+C:\Users\ianne\source\repos\TelevisorObjetos\obj\Debug\TelevisorObjetos.pdb
+C:\Users\ianne\source\repos\TelevisorObjetos\obj\Debug\TelevisorObjetos.frmFormCompletar.resources
