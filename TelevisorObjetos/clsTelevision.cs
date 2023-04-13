@@ -36,17 +36,5 @@ namespace TelevisorObjetos
             set { definicion = value; }
         }
 
-
-
-
-        //private string marca;
-        //private string definicion;
-
-        ////constructor de television
-        //public clsTelevision(string marca, string definicion)
-        //{
-        //    this.marca = marca;
-        //    this.definicion = definicion;
-        //}
     }
 }
