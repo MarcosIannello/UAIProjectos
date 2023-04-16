@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Ej1GuiaPOO_Libreria
 {
-    public partial class Form1 : Form
+    public partial class frmLibreria : Form
     {
-        public Form1()
+        public frmLibreria()
         {
             InitializeComponent();
+        }
+
+        private void frmLibreria_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

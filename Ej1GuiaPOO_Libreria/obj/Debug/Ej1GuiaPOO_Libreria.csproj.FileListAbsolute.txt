@@ -1,0 +1,11 @@
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Ej1GuiaPOO_Libreria\bin\Debug\Ej1GuiaPOO_Libreria.exe.config
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Ej1GuiaPOO_Libreria\bin\Debug\Ej1GuiaPOO_Libreria.exe
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Ej1GuiaPOO_Libreria\bin\Debug\Ej1GuiaPOO_Libreria.pdb
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Ej1GuiaPOO_Libreria\obj\Debug\Ej1GuiaPOO_Libreria.csproj.AssemblyReference.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Ej1GuiaPOO_Libreria\obj\Debug\Ej1GuiaPOO_Libreria.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Ej1GuiaPOO_Libreria\obj\Debug\Ej1GuiaPOO_Libreria.frmLibreria.resources
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Ej1GuiaPOO_Libreria\obj\Debug\Ej1GuiaPOO_Libreria.Properties.Resources.resources
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Ej1GuiaPOO_Libreria\obj\Debug\Ej1GuiaPOO_Libreria.csproj.GenerateResource.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Ej1GuiaPOO_Libreria\obj\Debug\Ej1GuiaPOO_Libreria.csproj.CoreCompileInputs.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Ej1GuiaPOO_Libreria\obj\Debug\Ej1GuiaPOO_Libreria.exe
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Ej1GuiaPOO_Libreria\obj\Debug\Ej1GuiaPOO_Libreria.pdb
