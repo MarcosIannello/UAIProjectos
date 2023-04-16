@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ej1GuiaPOO_Libreria
 {
-    internal class clsProducto
+    public class clsProducto
     {
 
 		private int codigoDeBarras;
@@ -42,7 +42,11 @@ namespace Ej1GuiaPOO_Libreria
 		}
 
 
-
+		public string ProductInfo()
+		{
+			string info = $"El producto {Nombre} Cuyo codigo de barras es {CodigoDeBarras} Posee un precio de ${Precio} y hay una existencia de {Cantidad} unidades";
+			return info;
+		}
 
 	}
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ej1GuiaPOO_Libreria
 {
-    internal class clsLibreria
+    public class clsLibreria
     {
 		private string name;
 
@@ -48,6 +48,11 @@ namespace Ej1GuiaPOO_Libreria
 			set { _productos = value; }
 		}
 
+		public void agregarProducto(clsProducto producto)
+		{
+			Productos.Add(producto);
+		}
+		
 
 
 	}
