@@ -22,7 +22,7 @@ namespace Ej1GuiaPOO_Libreria
         List<clsProducto> ListaProductos = new List<clsProducto>();
         private void frmLibreria_Load(object sender, EventArgs e)
         {
-
+            hideComponents();
         }
 
         private void btnCargarProducto_Click(object sender, EventArgs e)
@@ -39,7 +39,7 @@ namespace Ej1GuiaPOO_Libreria
             borrarTXTS();
 
             string infoProducto = Product.ProductInfo();
-            ListaProductos.Append(Product);
+            ListaProductos.Add(Product);
 
             MessageBox.Show(infoProducto);
         }
@@ -51,19 +51,37 @@ namespace Ej1GuiaPOO_Libreria
             txtCantProdu.Clear();
             txtNombreProdu.Clear();
         }
+        public void hideComponents()
+        {
+            dataProductos.Hide();
+            btnClosegrid.Hide();
+        }
 
         private void btnVerProductos_Click(object sender, EventArgs e)
         {
-            foreach(var producto in ListaProductos)
-            {
-                int i;
-                i = 0;
-                txtListProducts.Lines[i] = ListaProductos[i].ToString();
-                i++;
-                txtListProducts.ForeColor = Color.White;
-            }
-            txtListProducts.Show();
+            int i;
+            i = 0;
+            dataProductos.Rows.Clear();
 
+            foreach (var producto in ListaProductos)
+            {
+               DataGridViewRow row = new DataGridViewRow();
+               row.CreateCells(dataProductos);
+               row.Cells[0].Value = ListaProductos[i].Nombre;
+               row.Cells[1].Value = ListaProductos[i].Cantidad;
+               dataProductos.Rows.Add(row);
+               i++;
+                
+            }
+            
+            dataProductos.Show();
+            btnClosegrid.Show();
+
+        }
+
+        private void btnClosegrid_Click(object sender, EventArgs e)
+        {
+            hideComponents();
         }
     }
 }
