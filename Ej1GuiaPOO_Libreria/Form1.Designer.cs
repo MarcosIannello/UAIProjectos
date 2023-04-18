@@ -41,10 +41,13 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.gbCargaVentas = new System.Windows.Forms.GroupBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.txtSubtotal = new System.Windows.Forms.TextBox();
+            this.btnCargarVenta = new System.Windows.Forms.Button();
+            this.cbProductos = new System.Windows.Forms.ComboBox();
+            this.txtcantVenta = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
             this.dataProductos = new System.Windows.Forms.DataGridView();
             this.Nombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Cantidad = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -182,10 +185,13 @@
             // 
             // gbCargaVentas
             // 
-            this.gbCargaVentas.Controls.Add(this.textBox2);
-            this.gbCargaVentas.Controls.Add(this.textBox4);
+            this.gbCargaVentas.Controls.Add(this.txtSubtotal);
+            this.gbCargaVentas.Controls.Add(this.btnCargarVenta);
+            this.gbCargaVentas.Controls.Add(this.cbProductos);
+            this.gbCargaVentas.Controls.Add(this.txtcantVenta);
+            this.gbCargaVentas.Controls.Add(this.label5);
+            this.gbCargaVentas.Controls.Add(this.label7);
             this.gbCargaVentas.Controls.Add(this.label6);
-            this.gbCargaVentas.Controls.Add(this.label8);
             this.gbCargaVentas.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.gbCargaVentas.Location = new System.Drawing.Point(546, 73);
             this.gbCargaVentas.Name = "gbCargaVentas";
@@ -194,19 +200,62 @@
             this.gbCargaVentas.TabStop = false;
             this.gbCargaVentas.Text = "Carga de ventas";
             // 
-            // textBox2
+            // txtSubtotal
             // 
-            this.textBox2.Location = new System.Drawing.Point(116, 94);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 20);
-            this.textBox2.TabIndex = 10;
+            this.txtSubtotal.Location = new System.Drawing.Point(116, 138);
+            this.txtSubtotal.Name = "txtSubtotal";
+            this.txtSubtotal.Size = new System.Drawing.Size(100, 20);
+            this.txtSubtotal.TabIndex = 11;
             // 
-            // textBox4
+            // btnCargarVenta
             // 
-            this.textBox4.Location = new System.Drawing.Point(116, 46);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(100, 20);
-            this.textBox4.TabIndex = 12;
+            this.btnCargarVenta.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnCargarVenta.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.btnCargarVenta.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnCargarVenta.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.btnCargarVenta.Location = new System.Drawing.Point(71, 190);
+            this.btnCargarVenta.Name = "btnCargarVenta";
+            this.btnCargarVenta.Size = new System.Drawing.Size(100, 23);
+            this.btnCargarVenta.TabIndex = 5;
+            this.btnCargarVenta.Text = "Cargar Venta";
+            this.btnCargarVenta.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.btnCargarVenta.UseVisualStyleBackColor = false;
+            this.btnCargarVenta.Click += new System.EventHandler(this.btnCargarVenta_Click);
+            // 
+            // cbProductos
+            // 
+            this.cbProductos.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cbProductos.FormattingEnabled = true;
+            this.cbProductos.Location = new System.Drawing.Point(116, 43);
+            this.cbProductos.Name = "cbProductos";
+            this.cbProductos.Size = new System.Drawing.Size(100, 21);
+            this.cbProductos.TabIndex = 6;
+            this.cbProductos.SelectedIndexChanged += new System.EventHandler(this.cbProductos_SelectedIndexChanged);
+            // 
+            // txtcantVenta
+            // 
+            this.txtcantVenta.Location = new System.Drawing.Point(116, 94);
+            this.txtcantVenta.Name = "txtcantVenta";
+            this.txtcantVenta.Size = new System.Drawing.Size(100, 20);
+            this.txtcantVenta.TabIndex = 10;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(23, 49);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(55, 13);
+            this.label5.TabIndex = 7;
+            this.label5.Text = "Productos";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(23, 145);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(46, 13);
+            this.label7.TabIndex = 7;
+            this.label7.Text = "Subtotal";
             // 
             // label6
             // 
@@ -216,15 +265,6 @@
             this.label6.Size = new System.Drawing.Size(49, 13);
             this.label6.TabIndex = 7;
             this.label6.Text = "Cantidad";
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(23, 46);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(87, 13);
-            this.label8.TabIndex = 5;
-            this.label8.Text = "Codigo de barras";
             // 
             // dataProductos
             // 
@@ -278,10 +318,10 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.btnClosegrid);
-            this.Controls.Add(this.dataProductos);
             this.Controls.Add(this.gbCargaVentas);
             this.Controls.Add(this.gpCargaProductos);
             this.Controls.Add(this.lblLibreria);
+            this.Controls.Add(this.dataProductos);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frmLibreria";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -312,14 +352,17 @@
         private System.Windows.Forms.TextBox txtCodBarras;
         private System.Windows.Forms.Button btnVerProductos;
         private System.Windows.Forms.GroupBox gbCargaVentas;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox txtcantVenta;
         private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label8;
         private System.Windows.Forms.DataGridView dataProductos;
         private System.Windows.Forms.DataGridViewTextBoxColumn Nombre;
         private System.Windows.Forms.DataGridViewTextBoxColumn Cantidad;
         private System.Windows.Forms.Button btnClosegrid;
+        private System.Windows.Forms.ComboBox cbProductos;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.TextBox txtSubtotal;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Button btnCargarVenta;
     }
 }
 

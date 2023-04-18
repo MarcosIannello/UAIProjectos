@@ -52,6 +52,17 @@ namespace Ej1GuiaPOO_Libreria
 		{
 			Productos.Add(producto);
 		}
+
+		public int calcularVenta(int cantidad, float precio)
+		{
+			int ValorVenta = 0;
+
+
+			ValorVenta = cantidad * ((int)(precio));
+
+
+			return ValorVenta;
+		}
 		
 
 
