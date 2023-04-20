@@ -1,0 +1,11 @@
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3ClasePersona\bin\Debug\Ej3ClasePersona.exe.config
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3ClasePersona\bin\Debug\Ej3ClasePersona.exe
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3ClasePersona\bin\Debug\Ej3ClasePersona.pdb
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3ClasePersona\obj\Debug\Ej3ClasePersona.csproj.AssemblyReference.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3ClasePersona\obj\Debug\Ej3ClasePersona.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3ClasePersona\obj\Debug\Ej3ClasePersona.Form1.resources
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3ClasePersona\obj\Debug\Ej3ClasePersona.Properties.Resources.resources
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3ClasePersona\obj\Debug\Ej3ClasePersona.csproj.GenerateResource.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3ClasePersona\obj\Debug\Ej3ClasePersona.csproj.CoreCompileInputs.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3ClasePersona\obj\Debug\Ej3ClasePersona.exe
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3ClasePersona\obj\Debug\Ej3ClasePersona.pdb
