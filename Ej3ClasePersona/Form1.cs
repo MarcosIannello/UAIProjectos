@@ -37,8 +37,9 @@ namespace Ej3ClasePersona
             ListaPersonas.Add(persona);
 
             MessageBox.Show($"Se creo la persona {persona.Nombre}");
-            CargarGridView();
+            
             contar(persona);
+            CargarGridView();
 
             clearAll();
         }
@@ -88,9 +89,32 @@ namespace Ej3ClasePersona
             
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        
+
+        private void btnEnlazar_Click(object sender, EventArgs e)
         {
-            ListaPersonas.Remove(temp);
+            lstNombres.DataSource = null;
+            lstNombres.DataSource = ListaPersonas;
+            lstNombres.DisplayMember = "Nombre";
+            
+            lstEdad.DataSource = null;
+            lstEdad.DataSource = ListaPersonas;
+            lstEdad.DisplayMember = "Edad";
+
+            CargarGridView();
+        }
+
+        private void btnBorrar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                ListaPersonas.Remove(temp);
+                CargarGridView();
+
+            }catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
         }
     }
 }
