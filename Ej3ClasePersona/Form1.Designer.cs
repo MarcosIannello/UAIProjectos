@@ -294,6 +294,7 @@
             this.btnModificar.TabIndex = 11;
             this.btnModificar.Text = "MODIFICAR";
             this.btnModificar.UseVisualStyleBackColor = false;
+            this.btnModificar.Click += new System.EventHandler(this.btnModificar_Click);
             // 
             // Form1
             // 
@@ -327,7 +328,9 @@
             this.Controls.Add(this.txtNombrePersona);
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.GridPersonas)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -45,7 +45,6 @@ namespace Ej3ClasePersona
         }
 
 
-
         public void CargarGridView()
         {
             GridPersonas.DataSource = null;
@@ -89,20 +88,12 @@ namespace Ej3ClasePersona
             
         }
 
-        
 
         private void btnEnlazar_Click(object sender, EventArgs e)
         {
-            lstNombres.DataSource = null;
-            lstNombres.DataSource = ListaPersonas;
-            lstNombres.DisplayMember = "Nombre";
-            
-            lstEdad.DataSource = null;
-            lstEdad.DataSource = ListaPersonas;
-            lstEdad.DisplayMember = "Edad";
-
-            CargarGridView();
+            enlazar();
         }
+
 
         private void btnBorrar_Click(object sender, EventArgs e)
         {
@@ -110,11 +101,88 @@ namespace Ej3ClasePersona
             {
                 ListaPersonas.Remove(temp);
                 CargarGridView();
+                borrarContador();
+                borrarListas();
+                enlazar();
 
             }catch (Exception ex)
             {
                 throw new Exception(ex.Message);
             }
+        }
+
+        private void borrarContador()
+        {
+            if (temp.Genero == "Femenino")
+            {
+                femenino--;
+                total--;
+            }
+            else if (temp.Genero == "Masculino")
+            {
+                masculino--;
+                total--;
+            }
+
+            txtMujeres.Text = femenino.ToString();
+            txtHombres.Text = masculino.ToString();
+            txtTotal.Text = total.ToString();
+        }
+
+        private void borrarListas()
+        {
+            if (lstNombres.Text == temp.Nombre && lstEdad.Text == temp.Edad.ToString())
+            {
+                lstNombres.Items.Remove(temp.Nombre);
+                lstEdad.Items.Remove(temp.Edad.ToString());
+            }
+        }
+
+        private void enlazar()
+        {
+            lstNombres.DataSource = null;
+            lstNombres.DataSource = ListaPersonas;
+            lstNombres.DisplayMember = "Nombre";
+
+            lstEdad.DataSource = null;
+            lstEdad.DataSource = ListaPersonas;
+            lstEdad.DisplayMember = "Edad";
+
+            CargarGridView();
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+
+        }
+
+        private void btnModificar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                foreach(clsPersona persona in ListaPersonas)
+                {
+                    if(persona.Legajo == int.Parse(txtLegajo.Text)){
+                        temp.Nombre = txtNombrePersona.Text;
+                        temp.Edad = int.Parse(txtEdad.Text);
+                        temp.Genero = cbgenero.SelectedItem.ToString();
+
+                        ListaPersonas[persona.Legajo] = temp;
+                        MessageBox.Show($"Usuario modificado: {temp.Nombre}, {temp.Legajo}, {temp.Edad}, {temp.Genero}");
+                        //enlazar();
+                    }
+                }
+                //temp.Legajo = int.Parse(txtLegajo.Text);
+                
+
+            }
+            catch
+            {
+
+            }
+
         }
     }
 }
