@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Drawing.Drawing2D;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -16,6 +17,7 @@ namespace Ej3ClasePersona
         public Form1()
         {
             InitializeComponent();
+            SetRegion();
         }
 
         List<clsPersona> ListaPersonas = new List<clsPersona>();
@@ -31,10 +33,7 @@ namespace Ej3ClasePersona
         {
             clsPersona persona = new clsPersona();
             
-
-            if (firstPerson)
-            {
-                persona.Legajo = legajo;
+                persona.Legajo = ListaPersonas.Count+1;
                 persona.Nombre = txtNombrePersona.Text;
                 persona.Edad = int.Parse(txtEdad.Text);
                 persona.Genero = cbgenero.SelectedItem.ToString();
@@ -49,24 +48,7 @@ namespace Ej3ClasePersona
                 clearAll();
                 firstPerson = false;
                 legajo++;
-            }
-            else
-            {
-                //a partir del segundo se asigna legajo automaticamente
-                persona.Legajo = legajo;
-                persona.Nombre = txtNombrePersona.Text;
-                persona.Edad = int.Parse(txtEdad.Text);
-                persona.Genero = cbgenero.SelectedItem.ToString();
-
-                ListaPersonas.Add(persona);
-
-                MessageBox.Show($"Se creo la persona {persona.Nombre}");
-
-                contar(persona);
-                CargarGridView();
-                clearAll();
-                legajo++;
-            }
+            
 
         }
 
@@ -77,7 +59,6 @@ namespace Ej3ClasePersona
             GridPersonas.DataSource = ListaPersonas;
 
         }
-
 
         public void contar(clsPersona persona)
         {
@@ -182,7 +163,7 @@ namespace Ej3ClasePersona
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            
 
         }
 
@@ -190,11 +171,11 @@ namespace Ej3ClasePersona
         {
             var i = 0;
 
-            try
-            {
+            //try
+            //{
                 foreach (clsPersona persona in ListaPersonas)
                 {
-                    if (persona.Legajo == int.Parse(txtLegajo.Text))
+                    if (persona.Legajo == temp.Legajo)
                     {
                         temp.Nombre = txtNombrePersona.Text;
                         temp.Edad = int.Parse(txtEdad.Text);
@@ -205,16 +186,16 @@ namespace Ej3ClasePersona
                         MessageBox.Show($"Usuario Modificado: {ListaPersonas[i].Nombre}, {ListaPersonas[i].Edad},{ListaPersonas[i].Genero},{ListaPersonas[i].Legajo}");
 
                         enlazar();
+                        break;
                     }
 
                     i++;
                 }
-
-            }
-            catch (Exception ex) 
-            {
-                MessageBox.Show("Error al modificar el usuario contactese con administrador!");
-            }
+            //}
+            //catch (Exception ex) 
+            //{
+            //    MessageBox.Show("Error al modificar el usuario contactese con administrador!");
+            //}
 
             clearAll();
 
@@ -223,6 +204,28 @@ namespace Ej3ClasePersona
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             clearAll();
+        }
+
+        private void SetRegion()
+        {
+            
+            GraphicsPath path = new GraphicsPath();
+            int radius = 15; 
+
+            
+            path.AddArc(0, 0, radius * 2, radius * 2, 180, 90);
+            path.AddArc(this.Width - radius * 2, 0, radius * 2, radius * 2, 270, 90);
+            path.AddArc(this.Width - radius * 2, this.Height - radius * 2, radius * 2, radius * 2, 0, 90);
+            path.AddArc(0, this.Height - radius * 2, radius * 2, radius * 2, 90, 90);
+            path.CloseAllFigures();
+
+        
+            this.Region = new Region(path);
+        }
+
+        private void btnExiApp_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
