@@ -24,24 +24,50 @@ namespace Ej3ClasePersona
         int femenino = 0;
         int masculino = 0;
         int total = 0;
+        bool firstPerson = true;
+        int legajo = 1;
         
         private void btnCargarPersona_Click(object sender, EventArgs e)
         {
             clsPersona persona = new clsPersona();
-
-            persona.Legajo = int.Parse(txtLegajo.Text);
-            persona.Nombre = txtNombrePersona.Text;
-            persona.Edad = int.Parse(txtEdad.Text);
-            persona.Genero = cbgenero.SelectedItem.ToString();
-
-            ListaPersonas.Add(persona);
-
-            MessageBox.Show($"Se creo la persona {persona.Nombre}");
             
-            contar(persona);
-            CargarGridView();
 
-            clearAll();
+            if (firstPerson)
+            {
+                persona.Legajo = legajo;
+                persona.Nombre = txtNombrePersona.Text;
+                persona.Edad = int.Parse(txtEdad.Text);
+                persona.Genero = cbgenero.SelectedItem.ToString();
+
+                ListaPersonas.Add(persona);
+
+                MessageBox.Show($"Se creo la persona {persona.Nombre}");
+
+                contar(persona);
+                CargarGridView();
+
+                clearAll();
+                firstPerson = false;
+                legajo++;
+            }
+            else
+            {
+                //a partir del segundo se asigna legajo automaticamente
+                persona.Legajo = legajo;
+                persona.Nombre = txtNombrePersona.Text;
+                persona.Edad = int.Parse(txtEdad.Text);
+                persona.Genero = cbgenero.SelectedItem.ToString();
+
+                ListaPersonas.Add(persona);
+
+                MessageBox.Show($"Se creo la persona {persona.Nombre}");
+
+                contar(persona);
+                CargarGridView();
+                clearAll();
+                legajo++;
+            }
+
         }
 
 
@@ -85,7 +111,7 @@ namespace Ej3ClasePersona
             txtEdad.Clear();
             txtNombrePersona.Clear();
             txtLegajo.Clear();
-            
+            cbgenero.SelectedIndex = -1;
         }
 
 
@@ -109,6 +135,8 @@ namespace Ej3ClasePersona
             {
                 throw new Exception(ex.Message);
             }
+
+            clearAll();
         }
 
         private void borrarContador()
@@ -160,29 +188,41 @@ namespace Ej3ClasePersona
 
         private void btnModificar_Click(object sender, EventArgs e)
         {
+            var i = 0;
+
             try
             {
-                foreach(clsPersona persona in ListaPersonas)
+                foreach (clsPersona persona in ListaPersonas)
                 {
-                    if(persona.Legajo == int.Parse(txtLegajo.Text)){
+                    if (persona.Legajo == int.Parse(txtLegajo.Text))
+                    {
                         temp.Nombre = txtNombrePersona.Text;
                         temp.Edad = int.Parse(txtEdad.Text);
                         temp.Genero = cbgenero.SelectedItem.ToString();
 
-                        ListaPersonas[persona.Legajo] = temp;
-                        MessageBox.Show($"Usuario modificado: {temp.Nombre}, {temp.Legajo}, {temp.Edad}, {temp.Genero}");
-                        //enlazar();
+                        ListaPersonas[i] = temp;
+
+                        MessageBox.Show($"Usuario Modificado: {ListaPersonas[i].Nombre}, {ListaPersonas[i].Edad},{ListaPersonas[i].Genero},{ListaPersonas[i].Legajo}");
+
+                        enlazar();
                     }
+
+                    i++;
                 }
-                //temp.Legajo = int.Parse(txtLegajo.Text);
-                
 
             }
-            catch
+            catch (Exception ex) 
             {
-
+                MessageBox.Show("Error al modificar el usuario contactese con administrador!");
             }
 
+            clearAll();
+
+        }
+
+        private void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            clearAll();
         }
     }
 }
