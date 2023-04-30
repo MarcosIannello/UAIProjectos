@@ -1,0 +1,13 @@
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej2guiaEstacionServicio\bin\Debug\Ej2guiaEstacionServicio.exe.config
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej2guiaEstacionServicio\bin\Debug\Ej2guiaEstacionServicio.exe
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej2guiaEstacionServicio\bin\Debug\Ej2guiaEstacionServicio.pdb
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej2guiaEstacionServicio\obj\Debug\Ej2guiaEstacionServicio.csproj.AssemblyReference.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej2guiaEstacionServicio\obj\Debug\Ej2guiaEstacionServicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej2guiaEstacionServicio\obj\Debug\Ej2guiaEstacionServicio.FrmHome.resources
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej2guiaEstacionServicio\obj\Debug\Ej2guiaEstacionServicio.Properties.Resources.resources
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej2guiaEstacionServicio\obj\Debug\Ej2guiaEstacionServicio.csproj.GenerateResource.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej2guiaEstacionServicio\obj\Debug\Ej2guiaEstacionServicio.csproj.CoreCompileInputs.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej2guiaEstacionServicio\obj\Debug\Ej2guiaEstacionServicio.exe
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej2guiaEstacionServicio\obj\Debug\Ej2guiaEstacionServicio.pdb
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej2guiaEstacionServicio\obj\Debug\Ej2guiaEstacionServicio.frmCrearCombustible.resources
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej2guiaEstacionServicio\obj\Debug\Ej2guiaEstacionServicio.frmCargaSurtidor.resources
