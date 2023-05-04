@@ -1,0 +1,11 @@
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Clase5POO\bin\Debug\Clase5POO.exe.config
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Clase5POO\bin\Debug\Clase5POO.exe
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Clase5POO\bin\Debug\Clase5POO.pdb
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Clase5POO\obj\Debug\Clase5POO.csproj.AssemblyReference.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Clase5POO\obj\Debug\Clase5POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Clase5POO\obj\Debug\Clase5POO.Form1.resources
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Clase5POO\obj\Debug\Clase5POO.Properties.Resources.resources
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Clase5POO\obj\Debug\Clase5POO.csproj.GenerateResource.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Clase5POO\obj\Debug\Clase5POO.csproj.CoreCompileInputs.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Clase5POO\obj\Debug\Clase5POO.exe
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Clase5POO\obj\Debug\Clase5POO.pdb
