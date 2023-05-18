@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjconsoleAPPBiblioteca", "EjconsoleAPPBiblioteca.csproj", "{B6E8D3C2-0B8A-4655-BB1C-8712AD2835E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClases", "..\BibliotecaClases\BibliotecaClases.csproj", "{953887D2-18F1-49C8-8347-E6FA1F1F4908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6E8D3C2-0B8A-4655-BB1C-8712AD2835E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E8D3C2-0B8A-4655-BB1C-8712AD2835E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E8D3C2-0B8A-4655-BB1C-8712AD2835E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E8D3C2-0B8A-4655-BB1C-8712AD2835E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{953887D2-18F1-49C8-8347-E6FA1F1F4908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953887D2-18F1-49C8-8347-E6FA1F1F4908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953887D2-18F1-49C8-8347-E6FA1F1F4908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953887D2-18F1-49C8-8347-E6FA1F1F4908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E2601A0-88A1-43A7-920A-D2EE6A6DF4AC}
+	EndGlobalSection
+EndGlobal

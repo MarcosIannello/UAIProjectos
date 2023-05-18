@@ -1,0 +1,11 @@
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3PooGUIA\bin\Debug\Ej3PooGUIA.exe.config
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3PooGUIA\bin\Debug\Ej3PooGUIA.exe
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3PooGUIA\bin\Debug\Ej3PooGUIA.pdb
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3PooGUIA\obj\Debug\Ej3PooGUIA.csproj.AssemblyReference.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3PooGUIA\obj\Debug\Ej3PooGUIA.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3PooGUIA\obj\Debug\Ej3PooGUIA.frmCafeteria.resources
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3PooGUIA\obj\Debug\Ej3PooGUIA.Properties.Resources.resources
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3PooGUIA\obj\Debug\Ej3PooGUIA.csproj.GenerateResource.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3PooGUIA\obj\Debug\Ej3PooGUIA.csproj.CoreCompileInputs.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3PooGUIA\obj\Debug\Ej3PooGUIA.exe
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\Ej3PooGUIA\obj\Debug\Ej3PooGUIA.pdb

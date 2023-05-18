@@ -1,0 +1,6 @@
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\BibliotecaClasesEjclase6\bin\Debug\BibliotecaClasesEjclase6.dll
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\BibliotecaClasesEjclase6\bin\Debug\BibliotecaClasesEjclase6.pdb
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\BibliotecaClasesEjclase6\obj\Debug\BibliotecaClasesEjclase6.csproj.AssemblyReference.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\BibliotecaClasesEjclase6\obj\Debug\BibliotecaClasesEjclase6.csproj.CoreCompileInputs.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\BibliotecaClasesEjclase6\obj\Debug\BibliotecaClasesEjclase6.dll
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\BibliotecaClasesEjclase6\obj\Debug\BibliotecaClasesEjclase6.pdb

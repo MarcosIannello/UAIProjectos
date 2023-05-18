@@ -1,0 +1,14 @@
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjImplementacionBibliotecaClases\bin\Debug\EjImplementacionBibliotecaClases.exe.config
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjImplementacionBibliotecaClases\bin\Debug\EjImplementacionBibliotecaClases.exe
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjImplementacionBibliotecaClases\bin\Debug\EjImplementacionBibliotecaClases.pdb
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjImplementacionBibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjImplementacionBibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjImplementacionBibliotecaClases\obj\Debug\EjImplementacionBibliotecaClases.csproj.AssemblyReference.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjImplementacionBibliotecaClases\obj\Debug\EjImplementacionBibliotecaClases.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjImplementacionBibliotecaClases\obj\Debug\EjImplementacionBibliotecaClases.Form1.resources
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjImplementacionBibliotecaClases\obj\Debug\EjImplementacionBibliotecaClases.Properties.Resources.resources
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjImplementacionBibliotecaClases\obj\Debug\EjImplementacionBibliotecaClases.csproj.GenerateResource.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjImplementacionBibliotecaClases\obj\Debug\EjImplementacionBibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjImplementacionBibliotecaClases\obj\Debug\EjImplementacionBibliotecaClases.csproj.CopyComplete
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjImplementacionBibliotecaClases\obj\Debug\EjImplementacionBibliotecaClases.exe
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjImplementacionBibliotecaClases\obj\Debug\EjImplementacionBibliotecaClases.pdb

@@ -1,0 +1,11 @@
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjconsoleAPPBiblioteca\bin\Debug\EjconsoleAPPBiblioteca.exe.config
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjconsoleAPPBiblioteca\bin\Debug\EjconsoleAPPBiblioteca.exe
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjconsoleAPPBiblioteca\bin\Debug\EjconsoleAPPBiblioteca.pdb
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjconsoleAPPBiblioteca\bin\Debug\BibliotecaClases.dll
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjconsoleAPPBiblioteca\bin\Debug\BibliotecaClases.pdb
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjconsoleAPPBiblioteca\obj\Debug\EjconsoleAPPBiblioteca.csproj.AssemblyReference.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjconsoleAPPBiblioteca\obj\Debug\EjconsoleAPPBiblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjconsoleAPPBiblioteca\obj\Debug\EjconsoleAPPBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjconsoleAPPBiblioteca\obj\Debug\EjconsoleAPPBiblioteca.csproj.CopyComplete
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjconsoleAPPBiblioteca\obj\Debug\EjconsoleAPPBiblioteca.exe
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjconsoleAPPBiblioteca\obj\Debug\EjconsoleAPPBiblioteca.pdb
