@@ -8,6 +8,11 @@ namespace BibliotecaClasesEjclase6
 {
     public class Estacionamiento
     {
+		public Estacionamiento()
+		{
+			ingresos = new List<Ingreso>();
+		}
+
 		private string nombre;
 
 		public string Nombre
@@ -49,14 +54,20 @@ namespace BibliotecaClasesEjclase6
 			set { disponibilidadBaja = value; }
 		}
 
-
-
 		private List<Estacionamiento> estacionamientos;
 
 		public List<Estacionamiento> Estacionamientos
 		{
 			get { return estacionamientos; }
 			set { estacionamientos = value; }
+		}
+
+		private List<Ingreso> ingresos;
+
+		public List<Ingreso> Ingresos
+		{
+			get { return ingresos; }
+			set { ingresos = value; }
 		}
 
 

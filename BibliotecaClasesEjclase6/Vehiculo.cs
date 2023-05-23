@@ -32,5 +32,11 @@ namespace BibliotecaClasesEjclase6
 			set { precioXHora = value; }
 		}
 
+
+		public float calcularPrecio()
+		{
+            return cantHoras * precioXHora;
+        }
+
 	}
 }
