@@ -21,9 +21,12 @@ namespace PracticoClase6EJParcial
         Empresa empresa = new Empresa();
         int nroFactura = 0;
         float recaudado;
+<<<<<<< HEAD
         int descAplicados = 0;
         bool aplicarDescuento = false;
         
+=======
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -85,6 +88,7 @@ namespace PracticoClase6EJParcial
             ingreso.CantHoras = int.Parse(txtCantHoras.Text);
             ingreso.Patente = txtPatente.Text;
 
+<<<<<<< HEAD
             if (ingreso.CantHoras >= 5)
             {
                 descAplicados++;
@@ -222,6 +226,65 @@ namespace PracticoClase6EJParcial
             rbPlantaBaja.Checked = false;
             checkCamionGob.Checked =false;
 
+=======
+            if(ingreso.TipoVehiculo == "Auto")
+            {
+                Auto auto = new Auto();
+                auto.PrecioXHora = 220;
+                auto.CantHoras = ingreso.CantHoras;
+                recaudado += auto.calcularPrecio();
+                MessageBox.Show($"{recaudado}");
+                empresa.TotalRecaudado += recaudado;
+            }else if(ingreso.TipoVehiculo == "Moto")
+            {
+                Moto moto = new Moto();
+                moto.PrecioXHora = 100;
+                moto.CantHoras= ingreso.CantHoras;
+                recaudado += moto.calcularPrecio();
+                MessageBox.Show($"{recaudado}");
+                empresa.TotalRecaudado += recaudado;
+
+            }else if(ingreso.TipoVehiculo == "Camion" && checkCamionGob.Checked)
+            {
+                Camion__Gobierno camionGob = new Camion__Gobierno();
+                camionGob.PrecioXHora = 500;
+                camionGob.CantHoras = ingreso.CantHoras;
+                recaudado += camionGob.calcularPrecio();
+                float desc = recaudado * 0.2f;
+                recaudado -= desc;
+                empresa.TotalRecaudado += recaudado;
+            }else if (ingreso.TipoVehiculo == "Camioneta")
+            {
+                Camionetas camionetas = new Camionetas();
+                camionetas.PrecioXHora = 350;
+                camionetas.CantHoras = ingreso.CantHoras;
+                camionetas.calcularPrecio();
+            }else if(ingreso.TipoVehiculo == "Camion")
+            {
+                Camion camion = new Camion();
+                camion.PrecioXHora= 500;
+                camion.CantHoras= ingreso.CantHoras;
+                recaudado = camion.calcularPrecio();
+                empresa.TotalRecaudado += recaudado;
+            }
+
+
+                empresa.Estacionamientos.ForEach(Estacionamiento =>
+            {
+                if (Estacionamiento.Nombre == cmbEstacionamiento.Text)
+                {
+                    Estacionamiento.Ingresos.Add(ingreso);
+                    MessageBox.Show($"{Estacionamiento.Ingresos.Count}");
+                }
+            });
+
+            
+        }
+
+        private void cmbEstacionamiento_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
         }
     }
 }

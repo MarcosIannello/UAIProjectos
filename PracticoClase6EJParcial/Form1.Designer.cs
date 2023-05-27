@@ -29,9 +29,12 @@
         private void InitializeComponent()
         {
             this.gbIngreso = new System.Windows.Forms.GroupBox();
+<<<<<<< HEAD
             this.rbPlantaBaja = new System.Windows.Forms.RadioButton();
             this.rbPlantaAlta = new System.Windows.Forms.RadioButton();
             this.btnCargarEstacionamientos = new System.Windows.Forms.Button();
+=======
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.btnRegistrarIngreso = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -50,6 +53,7 @@
             this.txtNombreEstacio = new System.Windows.Forms.TextBox();
             this.txtCapacidadAlta = new System.Windows.Forms.TextBox();
             this.txtCapacidadBaja = new System.Windows.Forms.TextBox();
+<<<<<<< HEAD
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.cbResumenEstablecimientos = new System.Windows.Forms.ComboBox();
             this.txtIngresosTotales = new System.Windows.Forms.TextBox();
@@ -70,6 +74,9 @@
             this.label14 = new System.Windows.Forms.Label();
             this.btnResumenEmpresa = new System.Windows.Forms.Button();
             this.txtDescDinero = new System.Windows.Forms.TextBox();
+=======
+            this.btnCargarEstacionamientos = new System.Windows.Forms.Button();
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.gbIngreso.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -77,8 +84,11 @@
             // 
             // gbIngreso
             // 
+<<<<<<< HEAD
             this.gbIngreso.Controls.Add(this.rbPlantaBaja);
             this.gbIngreso.Controls.Add(this.rbPlantaAlta);
+=======
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.gbIngreso.Controls.Add(this.btnCargarEstacionamientos);
             this.gbIngreso.Controls.Add(this.btnRegistrarIngreso);
             this.gbIngreso.Controls.Add(this.label3);
@@ -90,15 +100,24 @@
             this.gbIngreso.Controls.Add(this.checkCamionGob);
             this.gbIngreso.Controls.Add(this.cmbVehiculo);
             this.gbIngreso.Controls.Add(this.cmbEstacionamiento);
+<<<<<<< HEAD
             this.gbIngreso.Location = new System.Drawing.Point(325, 11);
             this.gbIngreso.Margin = new System.Windows.Forms.Padding(2);
             this.gbIngreso.Name = "gbIngreso";
             this.gbIngreso.Padding = new System.Windows.Forms.Padding(2);
             this.gbIngreso.Size = new System.Drawing.Size(369, 338);
+=======
+            this.gbIngreso.Location = new System.Drawing.Point(575, 29);
+            this.gbIngreso.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.gbIngreso.Name = "gbIngreso";
+            this.gbIngreso.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.gbIngreso.Size = new System.Drawing.Size(416, 486);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.gbIngreso.TabIndex = 0;
             this.gbIngreso.TabStop = false;
             this.gbIngreso.Text = "Ingreso";
             // 
+<<<<<<< HEAD
             // rbPlantaBaja
             // 
             this.rbPlantaBaja.AutoSize = true;
@@ -137,6 +156,12 @@
             // 
             this.btnRegistrarIngreso.Location = new System.Drawing.Point(132, 298);
             this.btnRegistrarIngreso.Margin = new System.Windows.Forms.Padding(2);
+=======
+            // btnRegistrarIngreso
+            // 
+            this.btnRegistrarIngreso.Location = new System.Drawing.Point(157, 294);
+            this.btnRegistrarIngreso.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.btnRegistrarIngreso.Name = "btnRegistrarIngreso";
             this.btnRegistrarIngreso.Size = new System.Drawing.Size(116, 23);
             this.btnRegistrarIngreso.TabIndex = 4;
@@ -147,7 +172,11 @@
             // label3
             // 
             this.label3.AutoSize = true;
+<<<<<<< HEAD
             this.label3.Location = new System.Drawing.Point(65, 206);
+=======
+            this.label3.Location = new System.Drawing.Point(84, 184);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(44, 13);
@@ -157,7 +186,11 @@
             // label2
             // 
             this.label2.AutoSize = true;
+<<<<<<< HEAD
             this.label2.Location = new System.Drawing.Point(65, 258);
+=======
+            this.label2.Location = new System.Drawing.Point(84, 236);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(80, 13);
@@ -167,7 +200,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
+<<<<<<< HEAD
             this.label1.Location = new System.Drawing.Point(65, 159);
+=======
+            this.label1.Location = new System.Drawing.Point(84, 137);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(48, 13);
@@ -177,7 +214,11 @@
             // Estacionamiento
             // 
             this.Estacionamiento.AutoSize = true;
+<<<<<<< HEAD
             this.Estacionamiento.Location = new System.Drawing.Point(59, 67);
+=======
+            this.Estacionamiento.Location = new System.Drawing.Point(84, 83);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.Estacionamiento.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.Estacionamiento.Name = "Estacionamiento";
             this.Estacionamiento.Size = new System.Drawing.Size(85, 13);
@@ -186,16 +227,26 @@
             // 
             // txtCantHoras
             // 
+<<<<<<< HEAD
             this.txtCantHoras.Location = new System.Drawing.Point(162, 253);
             this.txtCantHoras.Margin = new System.Windows.Forms.Padding(2);
+=======
+            this.txtCantHoras.Location = new System.Drawing.Point(181, 231);
+            this.txtCantHoras.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.txtCantHoras.Name = "txtCantHoras";
             this.txtCantHoras.Size = new System.Drawing.Size(92, 20);
             this.txtCantHoras.TabIndex = 2;
             // 
             // txtPatente
             // 
+<<<<<<< HEAD
             this.txtPatente.Location = new System.Drawing.Point(162, 201);
             this.txtPatente.Margin = new System.Windows.Forms.Padding(2);
+=======
+            this.txtPatente.Location = new System.Drawing.Point(181, 179);
+            this.txtPatente.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.txtPatente.Name = "txtPatente";
             this.txtPatente.Size = new System.Drawing.Size(92, 20);
             this.txtPatente.TabIndex = 2;
@@ -203,8 +254,13 @@
             // checkCamionGob
             // 
             this.checkCamionGob.AutoSize = true;
+<<<<<<< HEAD
             this.checkCamionGob.Location = new System.Drawing.Point(276, 156);
             this.checkCamionGob.Margin = new System.Windows.Forms.Padding(2);
+=======
+            this.checkCamionGob.Location = new System.Drawing.Point(295, 134);
+            this.checkCamionGob.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.checkCamionGob.Name = "checkCamionGob";
             this.checkCamionGob.Size = new System.Drawing.Size(58, 17);
             this.checkCamionGob.TabIndex = 1;
@@ -221,8 +277,13 @@
             "Auto",
             "Camioneta",
             "Camion"});
+<<<<<<< HEAD
             this.cmbVehiculo.Location = new System.Drawing.Point(162, 152);
             this.cmbVehiculo.Margin = new System.Windows.Forms.Padding(2);
+=======
+            this.cmbVehiculo.Location = new System.Drawing.Point(181, 130);
+            this.cmbVehiculo.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.cmbVehiculo.Name = "cmbVehiculo";
             this.cmbVehiculo.Size = new System.Drawing.Size(92, 21);
             this.cmbVehiculo.TabIndex = 0;
@@ -231,8 +292,13 @@
             // 
             this.cmbEstacionamiento.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbEstacionamiento.FormattingEnabled = true;
+<<<<<<< HEAD
             this.cmbEstacionamiento.Location = new System.Drawing.Point(156, 61);
             this.cmbEstacionamiento.Margin = new System.Windows.Forms.Padding(2);
+=======
+            this.cmbEstacionamiento.Location = new System.Drawing.Point(181, 77);
+            this.cmbEstacionamiento.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.cmbEstacionamiento.Name = "cmbEstacionamiento";
             this.cmbEstacionamiento.Size = new System.Drawing.Size(92, 21);
             this.cmbEstacionamiento.TabIndex = 0;
@@ -247,19 +313,32 @@
             this.groupBox1.Controls.Add(this.txtNombreEstacio);
             this.groupBox1.Controls.Add(this.txtCapacidadAlta);
             this.groupBox1.Controls.Add(this.txtCapacidadBaja);
+<<<<<<< HEAD
             this.groupBox1.Location = new System.Drawing.Point(11, 11);
             this.groupBox1.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Padding = new System.Windows.Forms.Padding(2);
             this.groupBox1.Size = new System.Drawing.Size(285, 287);
+=======
+            this.groupBox1.Location = new System.Drawing.Point(34, 29);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.Size = new System.Drawing.Size(398, 350);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Alta Establecimiento";
             // 
             // btnAltaEstaciona
             // 
+<<<<<<< HEAD
             this.btnAltaEstaciona.Location = new System.Drawing.Point(104, 209);
             this.btnAltaEstaciona.Margin = new System.Windows.Forms.Padding(2);
+=======
+            this.btnAltaEstaciona.Location = new System.Drawing.Point(140, 217);
+            this.btnAltaEstaciona.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.btnAltaEstaciona.Name = "btnAltaEstaciona";
             this.btnAltaEstaciona.Size = new System.Drawing.Size(81, 24);
             this.btnAltaEstaciona.TabIndex = 4;
@@ -270,7 +349,11 @@
             // label4
             // 
             this.label4.AutoSize = true;
+<<<<<<< HEAD
             this.label4.Location = new System.Drawing.Point(42, 157);
+=======
+            this.label4.Location = new System.Drawing.Point(78, 165);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(82, 13);
@@ -280,7 +363,11 @@
             // label6
             // 
             this.label6.AutoSize = true;
+<<<<<<< HEAD
             this.label6.Location = new System.Drawing.Point(42, 110);
+=======
+            this.label6.Location = new System.Drawing.Point(78, 118);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.label6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(78, 13);
@@ -290,7 +377,11 @@
             // label7
             // 
             this.label7.AutoSize = true;
+<<<<<<< HEAD
             this.label7.Location = new System.Drawing.Point(44, 56);
+=======
+            this.label7.Location = new System.Drawing.Point(80, 64);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.label7.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(44, 13);
@@ -299,28 +390,44 @@
             // 
             // txtNombreEstacio
             // 
+<<<<<<< HEAD
             this.txtNombreEstacio.Location = new System.Drawing.Point(139, 56);
             this.txtNombreEstacio.Margin = new System.Windows.Forms.Padding(2);
+=======
+            this.txtNombreEstacio.Location = new System.Drawing.Point(175, 64);
+            this.txtNombreEstacio.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.txtNombreEstacio.Name = "txtNombreEstacio";
             this.txtNombreEstacio.Size = new System.Drawing.Size(92, 20);
             this.txtNombreEstacio.TabIndex = 2;
             // 
             // txtCapacidadAlta
             // 
+<<<<<<< HEAD
             this.txtCapacidadAlta.Location = new System.Drawing.Point(139, 110);
             this.txtCapacidadAlta.Margin = new System.Windows.Forms.Padding(2);
+=======
+            this.txtCapacidadAlta.Location = new System.Drawing.Point(175, 118);
+            this.txtCapacidadAlta.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.txtCapacidadAlta.Name = "txtCapacidadAlta";
             this.txtCapacidadAlta.Size = new System.Drawing.Size(92, 20);
             this.txtCapacidadAlta.TabIndex = 2;
             // 
             // txtCapacidadBaja
             // 
+<<<<<<< HEAD
             this.txtCapacidadBaja.Location = new System.Drawing.Point(139, 152);
             this.txtCapacidadBaja.Margin = new System.Windows.Forms.Padding(2);
+=======
+            this.txtCapacidadBaja.Location = new System.Drawing.Point(175, 160);
+            this.txtCapacidadBaja.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.txtCapacidadBaja.Name = "txtCapacidadBaja";
             this.txtCapacidadBaja.Size = new System.Drawing.Size(92, 20);
             this.txtCapacidadBaja.TabIndex = 2;
             // 
+<<<<<<< HEAD
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.btnResumenEmpresa);
@@ -505,16 +612,35 @@
             this.txtDescDinero.Name = "txtDescDinero";
             this.txtDescDinero.Size = new System.Drawing.Size(38, 20);
             this.txtDescDinero.TabIndex = 1;
+=======
+            // btnCargarEstacionamientos
+            // 
+            this.btnCargarEstacionamientos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnCargarEstacionamientos.Location = new System.Drawing.Point(146, 18);
+            this.btnCargarEstacionamientos.Name = "btnCargarEstacionamientos";
+            this.btnCargarEstacionamientos.Size = new System.Drawing.Size(133, 39);
+            this.btnCargarEstacionamientos.TabIndex = 5;
+            this.btnCargarEstacionamientos.Text = "cargar Estacionamientos";
+            this.btnCargarEstacionamientos.UseVisualStyleBackColor = false;
+            this.btnCargarEstacionamientos.Visible = false;
+            this.btnCargarEstacionamientos.Click += new System.EventHandler(this.btnCargarEstacionamientos_Click);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1023, 566);
+<<<<<<< HEAD
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.gbIngreso);
             this.Margin = new System.Windows.Forms.Padding(2);
+=======
+            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.gbIngreso);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -550,6 +676,7 @@
         private System.Windows.Forms.TextBox txtCapacidadAlta;
         private System.Windows.Forms.TextBox txtCapacidadBaja;
         private System.Windows.Forms.Button btnCargarEstacionamientos;
+<<<<<<< HEAD
         private System.Windows.Forms.RadioButton rbPlantaBaja;
         private System.Windows.Forms.RadioButton rbPlantaAlta;
         private System.Windows.Forms.GroupBox groupBox2;
@@ -572,6 +699,8 @@
         private System.Windows.Forms.ComboBox cbResumenEstablecimientos;
         private System.Windows.Forms.Button btnResumenEmpresa;
         private System.Windows.Forms.TextBox txtDescDinero;
+=======
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
     }
 }
 

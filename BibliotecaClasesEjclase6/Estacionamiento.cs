@@ -10,7 +10,10 @@ namespace BibliotecaClasesEjclase6
     {
 		public Estacionamiento()
 		{
+<<<<<<< HEAD
 			estacionamientos = new List<Estacionamiento>();
+=======
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
 			ingresos = new List<Ingreso>();
 		}
 
@@ -55,8 +58,6 @@ namespace BibliotecaClasesEjclase6
 			set { disponibilidadBaja = value; }
 		}
 
-
-
 		private List<Estacionamiento> estacionamientos;
 
 		public List<Estacionamiento> Estacionamientos
@@ -73,6 +74,7 @@ namespace BibliotecaClasesEjclase6
 			set { ingresos = value; }
 		}
 
+<<<<<<< HEAD
 		private float totalRecaudado;
 
 		public float TotalRecaudado
@@ -83,6 +85,8 @@ namespace BibliotecaClasesEjclase6
 
 
 
+=======
+>>>>>>> 500f082ef43fefdca7afdd7f55244d1803d280e8
 
 	}
 }
