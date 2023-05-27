@@ -1,0 +1,14 @@
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjClasePreParcialHotel\bin\Debug\EjClasePreParcialHotel.exe.config
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjClasePreParcialHotel\bin\Debug\EjClasePreParcialHotel.exe
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjClasePreParcialHotel\bin\Debug\EjClasePreParcialHotel.pdb
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjClasePreParcialHotel\bin\Debug\BibliotecaClasesEjHotel.dll
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjClasePreParcialHotel\bin\Debug\BibliotecaClasesEjHotel.pdb
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjClasePreParcialHotel\obj\Debug\EjClasePreParcialHotel.csproj.AssemblyReference.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjClasePreParcialHotel\obj\Debug\EjClasePreParcialHotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjClasePreParcialHotel\obj\Debug\EjClasePreParcialHotel.Form1.resources
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjClasePreParcialHotel\obj\Debug\EjClasePreParcialHotel.Properties.Resources.resources
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjClasePreParcialHotel\obj\Debug\EjClasePreParcialHotel.csproj.GenerateResource.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjClasePreParcialHotel\obj\Debug\EjClasePreParcialHotel.csproj.CoreCompileInputs.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjClasePreParcialHotel\obj\Debug\EjClasePreParcialHotel.csproj.CopyComplete
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjClasePreParcialHotel\obj\Debug\EjClasePreParcialHotel.exe
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjClasePreParcialHotel\obj\Debug\EjClasePreParcialHotel.pdb

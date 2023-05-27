@@ -1,3 +1,17 @@
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\PracticoClase6EJParcial\bin\Debug\PracticoClase6EJParcial.exe.config
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\PracticoClase6EJParcial\bin\Debug\PracticoClase6EJParcial.exe
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\PracticoClase6EJParcial\bin\Debug\PracticoClase6EJParcial.pdb
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\PracticoClase6EJParcial\bin\Debug\BibliotecaClasesEjclase6.dll
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\PracticoClase6EJParcial\bin\Debug\BibliotecaClasesEjclase6.pdb
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\PracticoClase6EJParcial\obj\Debug\PracticoClase6EJParcial.csproj.AssemblyReference.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\PracticoClase6EJParcial\obj\Debug\PracticoClase6EJParcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\PracticoClase6EJParcial\obj\Debug\PracticoClase6EJParcial.Form1.resources
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\PracticoClase6EJParcial\obj\Debug\PracticoClase6EJParcial.Properties.Resources.resources
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\PracticoClase6EJParcial\obj\Debug\PracticoClase6EJParcial.csproj.GenerateResource.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\PracticoClase6EJParcial\obj\Debug\PracticoClase6EJParcial.csproj.CoreCompileInputs.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\PracticoClase6EJParcial\obj\Debug\PracticoClase6EJParcial.csproj.CopyComplete
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\PracticoClase6EJParcial\obj\Debug\PracticoClase6EJParcial.exe
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\PracticoClase6EJParcial\obj\Debug\PracticoClase6EJParcial.pdb
 C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\PracticoClase6EJParcial\bin\Debug\PracticoClase6EJParcial.exe.config
 C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\PracticoClase6EJParcial\bin\Debug\PracticoClase6EJParcial.exe
 C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\PracticoClase6EJParcial\bin\Debug\PracticoClase6EJParcial.pdb

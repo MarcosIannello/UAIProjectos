@@ -16,9 +16,9 @@ namespace BibliotecaClasesEjclase6
 			set { nroFactura = value; }
 		}
 
-		private int patente;
+		private string patente;
 
-		public int Patente
+		public string Patente
 		{
 			get { return patente; }
 			set { patente = value; }

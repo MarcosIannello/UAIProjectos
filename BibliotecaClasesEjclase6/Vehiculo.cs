@@ -8,9 +8,9 @@ namespace BibliotecaClasesEjclase6
 {
     public abstract class Vehiculo
     {
-		private int patente;
+		private string patente;
 
-		public int Patente
+		public string Patente
 		{
 			get { return patente; }
 			set { patente = value; }
@@ -32,5 +32,9 @@ namespace BibliotecaClasesEjclase6
 			set { precioXHora = value; }
 		}
 
+		public float calcularPrecio()
+		{
+			return precioXHora*cantHoras;
+		}
 	}
 }

@@ -12,6 +12,7 @@ namespace BibliotecaClasesEjclase6
 		public Empresa()
 		{
 			Estacionamientos = new List<Estacionamiento>();
+			IngresosTotal = new List<Ingreso>();
 		}
 
 		private float totalRecaudado;
@@ -28,6 +29,22 @@ namespace BibliotecaClasesEjclase6
 		{
 			get { return estacionamientos; }
 			set { estacionamientos = value; }
+		}
+
+        private List<Ingreso> ingresosTotal;
+
+        public List<Ingreso> IngresosTotal
+        {
+            get { return ingresosTotal; }
+            set { ingresosTotal = value; }
+        }
+
+		private int descAplicados;
+
+		public int DescAplicados
+		{
+			get { return descAplicados; }
+			set { descAplicados = value; }
 		}
 
 	}

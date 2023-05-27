@@ -1,0 +1,6 @@
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\BibliotecaClasesEjHotel\bin\Debug\BibliotecaClasesEjHotel.dll
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\BibliotecaClasesEjHotel\bin\Debug\BibliotecaClasesEjHotel.pdb
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\BibliotecaClasesEjHotel\obj\Debug\BibliotecaClasesEjHotel.csproj.AssemblyReference.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\BibliotecaClasesEjHotel\obj\Debug\BibliotecaClasesEjHotel.csproj.CoreCompileInputs.cache
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\BibliotecaClasesEjHotel\obj\Debug\BibliotecaClasesEjHotel.dll
+C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\BibliotecaClasesEjHotel\obj\Debug\BibliotecaClasesEjHotel.pdb

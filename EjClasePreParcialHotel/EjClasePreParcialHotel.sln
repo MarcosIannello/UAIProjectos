@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjClasePreParcialHotel", "EjClasePreParcialHotel.csproj", "{FB7C4A8F-4144-4046-9A94-F8F631B6CA57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClasesEjHotel", "..\BibliotecaClasesEjHotel\BibliotecaClasesEjHotel.csproj", "{B34767A1-0095-4751-8019-44BB0933B2FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB7C4A8F-4144-4046-9A94-F8F631B6CA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7C4A8F-4144-4046-9A94-F8F631B6CA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7C4A8F-4144-4046-9A94-F8F631B6CA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7C4A8F-4144-4046-9A94-F8F631B6CA57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B34767A1-0095-4751-8019-44BB0933B2FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34767A1-0095-4751-8019-44BB0933B2FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34767A1-0095-4751-8019-44BB0933B2FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34767A1-0095-4751-8019-44BB0933B2FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E32B111-D5A4-43E9-9BE9-BCFBCE6186C7}
+	EndGlobalSection
+EndGlobal
