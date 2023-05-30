@@ -12,3 +12,17 @@ C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjGuia6Polideporti
 C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjGuia6Polideportivo\obj\Debug\EjGuia6Polideportivo.csproj.CopyComplete
 C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjGuia6Polideportivo\obj\Debug\EjGuia6Polideportivo.exe
 C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\EjGuia6Polideportivo\obj\Debug\EjGuia6Polideportivo.pdb
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\EjGuia6Polideportivo\bin\Debug\EjGuia6Polideportivo.exe.config
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\EjGuia6Polideportivo\bin\Debug\EjGuia6Polideportivo.exe
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\EjGuia6Polideportivo\bin\Debug\EjGuia6Polideportivo.pdb
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\EjGuia6Polideportivo\bin\Debug\BibliotecaClasesPolideportivo.dll
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\EjGuia6Polideportivo\bin\Debug\BibliotecaClasesPolideportivo.pdb
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\EjGuia6Polideportivo\obj\Debug\EjGuia6Polideportivo.csproj.AssemblyReference.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\EjGuia6Polideportivo\obj\Debug\EjGuia6Polideportivo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\EjGuia6Polideportivo\obj\Debug\EjGuia6Polideportivo.Form1.resources
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\EjGuia6Polideportivo\obj\Debug\EjGuia6Polideportivo.Properties.Resources.resources
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\EjGuia6Polideportivo\obj\Debug\EjGuia6Polideportivo.csproj.GenerateResource.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\EjGuia6Polideportivo\obj\Debug\EjGuia6Polideportivo.csproj.CoreCompileInputs.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\EjGuia6Polideportivo\obj\Debug\EjGuia6Polideportivo.csproj.CopyComplete
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\EjGuia6Polideportivo\obj\Debug\EjGuia6Polideportivo.exe
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\EjGuia6Polideportivo\obj\Debug\EjGuia6Polideportivo.pdb

@@ -49,7 +49,6 @@ namespace Ej3ClasePersona
                 firstPerson = false;
                 legajo++;
             
-
         }
 
 

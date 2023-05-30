@@ -4,3 +4,9 @@ C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\BibliotecaClasesPo
 C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\BibliotecaClasesPolideportivo\obj\Debug\BibliotecaClasesPolideportivo.csproj.CoreCompileInputs.cache
 C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\BibliotecaClasesPolideportivo\obj\Debug\BibliotecaClasesPolideportivo.dll
 C:\Users\ianne\OneDrive\Escritorio\POO\Proyectos\UAIProyectos\BibliotecaClasesPolideportivo\obj\Debug\BibliotecaClasesPolideportivo.pdb
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\BibliotecaClasesPolideportivo\bin\Debug\BibliotecaClasesPolideportivo.dll
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\BibliotecaClasesPolideportivo\bin\Debug\BibliotecaClasesPolideportivo.pdb
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\BibliotecaClasesPolideportivo\obj\Debug\BibliotecaClasesPolideportivo.csproj.AssemblyReference.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\BibliotecaClasesPolideportivo\obj\Debug\BibliotecaClasesPolideportivo.csproj.CoreCompileInputs.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\BibliotecaClasesPolideportivo\obj\Debug\BibliotecaClasesPolideportivo.dll
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProyectos\BibliotecaClasesPolideportivo\obj\Debug\BibliotecaClasesPolideportivo.pdb

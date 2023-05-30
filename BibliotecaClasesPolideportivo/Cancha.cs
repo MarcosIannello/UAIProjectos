@@ -6,8 +6,15 @@ using System.Threading.Tasks;
 
 namespace EjGuia6Polideportivo
 {
-    public abstract class Cancha
+    public class Cancha
     {
+
+		public Cancha() 
+		{
+			jueces = new List<Juez>();
+			
+		}
+
 		private int numCancha;
 
 		public int NumCancha
@@ -41,10 +48,22 @@ namespace EjGuia6Polideportivo
 			set { cantidadVecesAlquiladas = value; }
 		}
 
+		private bool ocupada;
 
-		//public float calcularPrecioConJuez()
-		//{
+		public bool Ocupada
+		{
+			get { return ocupada; }
+			set { ocupada = value; }
+		}
 
-		//}
+
+		private List<Juez> jueces;
+
+		public List<Juez> Jueces
+		{
+			get { return jueces; }
+			set { jueces = value; }
+		}
+
 	}
 }

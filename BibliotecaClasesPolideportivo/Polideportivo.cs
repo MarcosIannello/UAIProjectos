@@ -13,54 +13,18 @@ namespace BibliotecaClasesPolideportivo
 
 		public Polideportivo()
 		{
-			canchasTenis = new List<CanchaTenis>();
-			canchasF5 = new List<CanchaF5>();
-			canchasF7 = new List<CanchaF7>();
-			canchasF11 = new List<CanchaF11>();
 			jueces = new List<Juez>();
-			totalCanchas = new List<string>();
+			totalCanchas = new List<Cancha>();
 		}
 
-		private List<string> totalCanchas;
+		private List<Cancha> totalCanchas;
 
-		public List<string> TotalCanchas
+		public List<Cancha> TotalCanchas
 		{
 			get { return totalCanchas; }
 			set { totalCanchas = value; }
 		}
 
-
-		private List<CanchaTenis> canchasTenis;
-
-		public List<CanchaTenis> CanchasTenis
-		{
-			get { return canchasTenis; }
-			set { canchasTenis = value; }
-		}
-
-		private List<CanchaF5> canchasF5;
-
-		public List<CanchaF5> CanchasF5
-		{
-			get { return canchasF5; }
-			set { canchasF5 = value; }
-		}
-
-		public List<CanchaF7> canchasF7;
-
-        public List<CanchaF7> CanchasF7
-        {
-            get { return canchasF7; }
-            set { canchasF7 = value; }
-        }
-
-		private List<CanchaF11> canchasF11;
-
-		public List<CanchaF11> CanchasF11
-		{
-			get { return canchasF11; }
-			set { canchasF11 = value; }
-		}
 
 		private List<Juez> jueces;
 

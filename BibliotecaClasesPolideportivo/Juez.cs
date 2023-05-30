@@ -40,6 +40,13 @@ namespace EjGuia6Polideportivo
 			set { recaudado = value; }
 		}
 
+		private bool ocupado;
+
+		public bool Ocupado
+		{
+			get { return ocupado; }
+			set { ocupado = value; }
+		}
 
 
 
