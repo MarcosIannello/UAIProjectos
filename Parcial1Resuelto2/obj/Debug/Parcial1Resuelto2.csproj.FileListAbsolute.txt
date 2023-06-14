@@ -1,0 +1,14 @@
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Parcial1Resuelto2\bin\Debug\Parcial1Resuelto2.exe.config
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Parcial1Resuelto2\bin\Debug\Parcial1Resuelto2.exe
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Parcial1Resuelto2\bin\Debug\Parcial1Resuelto2.pdb
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Parcial1Resuelto2\bin\Debug\ClasesParcial1.dll
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Parcial1Resuelto2\bin\Debug\ClasesParcial1.pdb
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Parcial1Resuelto2\obj\Debug\Parcial1Resuelto2.csproj.AssemblyReference.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Parcial1Resuelto2\obj\Debug\Parcial1Resuelto2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Parcial1Resuelto2\obj\Debug\Parcial1Resuelto2.Form1.resources
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Parcial1Resuelto2\obj\Debug\Parcial1Resuelto2.Properties.Resources.resources
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Parcial1Resuelto2\obj\Debug\Parcial1Resuelto2.csproj.GenerateResource.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Parcial1Resuelto2\obj\Debug\Parcial1Resuelto2.csproj.CoreCompileInputs.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Parcial1Resuelto2\obj\Debug\Parcial1Resuelto2.csproj.CopyComplete
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Parcial1Resuelto2\obj\Debug\Parcial1Resuelto2.exe
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\Parcial1Resuelto2\obj\Debug\Parcial1Resuelto2.pdb

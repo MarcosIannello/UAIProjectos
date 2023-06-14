@@ -1,0 +1,6 @@
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\ClasesParcial1\bin\Debug\ClasesParcial1.dll
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\ClasesParcial1\bin\Debug\ClasesParcial1.pdb
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\ClasesParcial1\obj\Debug\ClasesParcial1.csproj.AssemblyReference.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\ClasesParcial1\obj\Debug\ClasesParcial1.csproj.CoreCompileInputs.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\ClasesParcial1\obj\Debug\ClasesParcial1.dll
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\ClasesParcial1\obj\Debug\ClasesParcial1.pdb
