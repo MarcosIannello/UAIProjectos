@@ -1,0 +1,11 @@
+C:\Users\JuanBe Matrice\source\repos\28-6-23\28-6-23\bin\Debug\28-6-23.exe.config
+C:\Users\JuanBe Matrice\source\repos\28-6-23\28-6-23\bin\Debug\28-6-23.exe
+C:\Users\JuanBe Matrice\source\repos\28-6-23\28-6-23\bin\Debug\28-6-23.pdb
+C:\Users\JuanBe Matrice\source\repos\28-6-23\28-6-23\obj\Debug\28-6-23.csproj.AssemblyReference.cache
+C:\Users\JuanBe Matrice\source\repos\28-6-23\28-6-23\obj\Debug\28-6-23.csproj.SuggestedBindingRedirects.cache
+C:\Users\JuanBe Matrice\source\repos\28-6-23\28-6-23\obj\Debug\_28_6_23.Form1.resources
+C:\Users\JuanBe Matrice\source\repos\28-6-23\28-6-23\obj\Debug\_28_6_23.Properties.Resources.resources
+C:\Users\JuanBe Matrice\source\repos\28-6-23\28-6-23\obj\Debug\28-6-23.csproj.GenerateResource.cache
+C:\Users\JuanBe Matrice\source\repos\28-6-23\28-6-23\obj\Debug\28-6-23.csproj.CoreCompileInputs.cache
+C:\Users\JuanBe Matrice\source\repos\28-6-23\28-6-23\obj\Debug\28-6-23.exe
+C:\Users\JuanBe Matrice\source\repos\28-6-23\28-6-23\obj\Debug\28-6-23.pdb
