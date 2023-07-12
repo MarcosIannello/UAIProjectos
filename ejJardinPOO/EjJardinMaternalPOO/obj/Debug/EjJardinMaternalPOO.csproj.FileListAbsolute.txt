@@ -1,0 +1,15 @@
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\EjJardinMaternalPOO\bin\Debug\EjJardinMaternalPOO.exe.config
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\EjJardinMaternalPOO\bin\Debug\EjJardinMaternalPOO.exe
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\EjJardinMaternalPOO\bin\Debug\EjJardinMaternalPOO.pdb
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\EjJardinMaternalPOO\bin\Debug\BLL.dll
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\EjJardinMaternalPOO\bin\Debug\BLL.pdb
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\EjJardinMaternalPOO\obj\Debug\EjJardinMaternalPOO.csproj.AssemblyReference.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\EjJardinMaternalPOO\obj\Debug\EjJardinMaternalPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\EjJardinMaternalPOO\obj\Debug\EjJardinMaternalPOO.frmHome.resources
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\EjJardinMaternalPOO\obj\Debug\EjJardinMaternalPOO.frmInscripcion.resources
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\EjJardinMaternalPOO\obj\Debug\EjJardinMaternalPOO.Properties.Resources.resources
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\EjJardinMaternalPOO\obj\Debug\EjJardinMaternalPOO.csproj.GenerateResource.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\EjJardinMaternalPOO\obj\Debug\EjJardinMaternalPOO.csproj.CoreCompileInputs.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\EjJardinMaternalPOO\obj\Debug\EjJardinMaternalPOO.csproj.CopyComplete
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\EjJardinMaternalPOO\obj\Debug\EjJardinMaternalPOO.exe
+C:\Users\ianne\OneDrive\Escritorio\Facultad\Repo\UAIProjectos\EjJardinMaternalPOO\obj\Debug\EjJardinMaternalPOO.pdb

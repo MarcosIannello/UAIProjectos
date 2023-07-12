@@ -84,7 +84,7 @@ namespace Ej3ClasePersona
             txtNombrePersona.Text = temp.Nombre;
             txtEdad.Text = temp.Edad.ToString();    
             cbgenero.Text = temp.Genero.ToString();
-        }
+        }   
 
         public void clearAll()
         {
