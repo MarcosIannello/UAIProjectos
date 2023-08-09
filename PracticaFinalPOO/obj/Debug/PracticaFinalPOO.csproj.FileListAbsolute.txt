@@ -1,0 +1,11 @@
+C:\Users\ianne\OneDrive\Escritorio\Facultad\POO\Repo\UAIProyectos\PracticaFinalPOO\bin\Debug\PracticaFinalPOO.exe.config
+C:\Users\ianne\OneDrive\Escritorio\Facultad\POO\Repo\UAIProyectos\PracticaFinalPOO\bin\Debug\PracticaFinalPOO.exe
+C:\Users\ianne\OneDrive\Escritorio\Facultad\POO\Repo\UAIProyectos\PracticaFinalPOO\bin\Debug\PracticaFinalPOO.pdb
+C:\Users\ianne\OneDrive\Escritorio\Facultad\POO\Repo\UAIProyectos\PracticaFinalPOO\obj\Debug\PracticaFinalPOO.csproj.AssemblyReference.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\POO\Repo\UAIProyectos\PracticaFinalPOO\obj\Debug\PracticaFinalPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\POO\Repo\UAIProyectos\PracticaFinalPOO\obj\Debug\PracticaFinalPOO.Form1.resources
+C:\Users\ianne\OneDrive\Escritorio\Facultad\POO\Repo\UAIProyectos\PracticaFinalPOO\obj\Debug\PracticaFinalPOO.Properties.Resources.resources
+C:\Users\ianne\OneDrive\Escritorio\Facultad\POO\Repo\UAIProyectos\PracticaFinalPOO\obj\Debug\PracticaFinalPOO.csproj.GenerateResource.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\POO\Repo\UAIProyectos\PracticaFinalPOO\obj\Debug\PracticaFinalPOO.csproj.CoreCompileInputs.cache
+C:\Users\ianne\OneDrive\Escritorio\Facultad\POO\Repo\UAIProyectos\PracticaFinalPOO\obj\Debug\PracticaFinalPOO.exe
+C:\Users\ianne\OneDrive\Escritorio\Facultad\POO\Repo\UAIProyectos\PracticaFinalPOO\obj\Debug\PracticaFinalPOO.pdb
