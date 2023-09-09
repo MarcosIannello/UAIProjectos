@@ -8,10 +8,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
+using BLL;
+using MetroSet_UI.Forms;
 
 namespace ProyectoLugComics
 {
-    public partial class Login : Form
+    public partial class Login : MetroSetForm
     {
         public Login()
         {
@@ -34,39 +36,14 @@ namespace ProyectoLugComics
             cn.Close();
         }
 
-        public bool ValidarUsuario(string nombreUsuario, string contraseña)
-        {
-            Conectar();
-
-            bool resultado;
-
-            SqlCommand cmd = new SqlCommand("VALIDAR_USUARIO", cn);
-            cmd.CommandType = CommandType.StoredProcedure;
-
-            cmd.Parameters.AddWithValue("@NOMBRE_USUARIO", nombreUsuario.ToUpper());
-            cmd.Parameters.AddWithValue("@PASSWORD", contraseña);
-
-            SqlParameter ResultadoParam = new SqlParameter("@RESULTADO", SqlDbType.Bit);
-
-            ResultadoParam.Direction = ParameterDirection.Output;
-
-            cmd.Parameters.Add(ResultadoParam);
-
-            cmd.ExecuteNonQuery();
-
-            resultado = Convert.ToBoolean(ResultadoParam.Value);
-
-            Desconectar();
-
-            return resultado;
-
-        }
-
         private void btnIngresar_Click(object sender, EventArgs e)
         {
-            var userName = txtUsername.Text;
-            var password = txtPassword.Text;   
-            var resultado = ValidarUsuario(userName, password);
+            ServicioUsuarios sUsuarios = new ServicioUsuarios();
+
+            string userName = txtUsername.Text;
+            string password = txtPassword.Text;
+            bool resultado = Convert.ToBoolean(sUsuarios.ValidarUsuario(userName, password));
+
             if (resultado)
             {
                 MessageBox.Show($"Bienvenido al sistema {userName}");
@@ -85,6 +62,16 @@ namespace ProyectoLugComics
             frmRegistrarse frmRegistrarse = new frmRegistrarse();
             frmRegistrarse.Show();
             this.Hide();
+        }
+
+        private void Login_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void metroSetControlBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
